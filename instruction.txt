@@ -1,0 +1,9 @@
+. = Current Directory
+
+.. = Parent Directory
+
+ git clone https://github.com/anildalar/BCA1.git -b master
+
+
+How to check on which remote respository we are uploading our code ?
+git remote -v
